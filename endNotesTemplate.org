@@ -1,0 +1,107 @@
+#+LaTeX_CLASS_OPTIONS: [koma, a4paper, utopia, 12pt,nofixltx2e]
+#+OPTIONS: toc:nil
+#+LATEX_HEADER: \setdefaultlanguage{english}
+#+LATEX_HEADER: \usepackage{setspace,endnotes,csquotes,enumitem}
+#+LATEX_HEADER: \doublespacing
+# +LaTeX_CLASS_OPTIONS: [nofixltx2e]
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: In the Shadow of the Shoah
+#+SUBTITLE: Exilic Jews' use of the holocaust as rhetorical device in discussion of Israel
+#+AUTHOR: Brandon Payne . 850226663\\
+#+DATE: 3 - July - 2016
+#+LATEX_HEADER: \usepackage[notes,isbn=false,backend=biber,notetype=endonly]{biblatex-chicago}
+#+LATEX_HEADER: \bibliography{../bibliography/shiff2016b.bib}  
+# copied .bib so that final changes won't break earlier .org files from the class
+# +LATEX_HEADER: \makeatletter
+# +LATEX_HEADER: \def\cms@choose{cms}
+# +LATEX_HEADER: \makeatother
+#+LATEX_HEADER: \setlist[enumerate,itemize]{noitemsep,nolistsep,leftmargin=*}
+* This works! It makes a pdf with endnotes straight from org!!
+
+Even the choice term, shoah or holocaust, reveals something about one's orientation to Hebrew and the post-WWII state of which it is the official language. This essay seeks to find attitudes about the holocaust in readings assigned as exemplary of American Jews' attitudes towards Israel at the Ben-Gurion University in 2016. 
+
+-----
+The corpus studied included ten authors, some of which had multiple chapters from the same book or multiple works from different time periods assigned as course readings.
+The only class readings with no explicit mention of the Holocaust were Herberg,
+footcite:herberg1955 and Karp.footcite:Karp2016 
+In all, I discovered thirty-one references to the holocaust in these texts. 
+I have included edge cases for completeness. 
+An edge case is one in which ambiguity prevails and the writer might not actually be refering to the holocaust.
+For example, "Hitler" can be invoked rhetorically to mean a "ruler prefering autocratic means", or "one who invades neighboring countries", rather than in the sense of "perpetrator of genocide."
+I have then excluded cases in which the holocaust is invoked to make a point not directly related to the author's view of Israel. 
+
+
+-----
+The holocaust is invoked by one author to explicitly compare the United States and Europe, and perhaps implicitly, to say something about Israel. Bad things may happen in Europe, causing some Jews to immigrate to Israel, but they don't happen in the United States, so what reason does a Jew have to leave safety there for the (possibly unsafe) State of Israel.
+"America is different-because no Hitler calamity is going to happen here."[[footcite:Halpern1956][::12]] Amos Oz extends this argument, should the unsafe Israel be destroyed, it will be up the Jews in America to rescue Israelis. 
+"And, yes, there is always the unthinkable-the subterranean fear that if, yes, worst comes to worst, the unthinkable, and lsrael is destroyed . . . this time American Jewry would not fail the test given a second chance, it would pass the test that it failed during the Hitler years."  He goes on to describe passing the test, "an enormous airlift, a rescue." [[footcite:Sofer1993][::117]]
+
+-----
+"[E]very living Jew is a survivor of Hitler's Holocaust - we cannot afford to have the lessons of our history repeated on us. The most important lesson of our history is the need of, and justification for, moral power to prevent immoral deeds."[[footcite:Dershowitz1991][::129]]
+"Do you now identify so strongly with your class interests that you've forgotten that it was these very people (money, power, etc.) who sent twelve million human beings to the gas chambers of Aushwitz and Buchenwald?"[[footcite:Dershowitz1991][::124]]
+"My parents' and grandparents' generations - which have personal memories of the pogroms, Kristallnacht, and the Holocaust - tend to read a great deal into even a single anti-Semitic incident."[[footcite:Dershowitz1991][::113]]
+* list of quotes 
+The course began with a reading from Amos Oz in which he invokes the holocaust twice.
+
+
+"[If] there would be a catastrope in Israel, it would not be caused by Cossacks or Polish . . . or the Nazis. A catastrophe in Israel might be caused by ourselves out of folly, arrogance, or shortsightedness. . . . But part of our freedom, which we Israeli Jews enjoy and Diaspora Jews do not, is the freedom to avoid catastrophe or to head right into it. [[footcite:Sofer1993][::118]]
+"We American Jews, after the destruction of the six million who were the main body of Jewry and the immediate source of our traditions, remain as the major part of all the Jews in the Diaspora." [[footcite:Halpern1956][::11]]
+
+"So overwhelming were the changes in the Jewish situation caused by Nazism, the Second World War . . . that we rarely consider the radical transformation . . . removed from Exile and resettled practically intact in Israel. The refugees in the German DP camps or the broken communities of such countries as Bulgaria and Yugoslavia came to Israel /en masse/.[[footcite:Halpern1956][::124]]
+
+"We recall the statistical picture of Jewish-Gentile intermarriage in Central Europe between the Wars which (together with low reproduction rates) led Jewish sociologists to conclude that, before Hitler appeared, these Jewries were already well on the way to biological submergence.[[footcite:Halpern1956][::131]]
+
+"As long as the Jewish /massif/ of Eastern Europe was in existence," writes Jacob Lestchinsky, "it, from time to time, introduced into Central Europe fresh groups of Jews with their traditions and heritage of Jewish stiffneckedness. These served as an auxiliary factor delaying the process of assimilation and preventing it from becoming complete."[[footcite:Kaplan1959][::36]]
+
+"We must remember that, except for the occasional mass massacres perpetrated against our Jewish People, the most tragic experience which it has undergone has been the one of being disillusioned [by a] pseudo-Messiah."[[footcite:Kaplan1959][::180]]
+
+Beth Wegner - J. before WWII [[footcite:Michels2011][::205]]
+background of holocaust :
+  1 side of Atlantic = acceptance / other side genocide[[footcite:Michels2011][::206]]
+Holocaust as t. demarcation for Europe, What about more benign present?[[footcite:Michels2011][::209]]
+ 
+"J. have paid a heavy price in the past for their ethnocentrism."
+  &     "Why were 6 million fed into the ovens?"[[footcite:Dershowitz1991][::95]]
+
+IL Supreme Court Justice Aharon Barak, "My life has been threatened by ultra-Orthodox Jewish extremists ever since I made a ruling in favor of Reform Jews. . . . Here was a man who had survived the Nazis by hiding in a crevice in a wall in Kovno now being threatened by Jewish fundamentalists. It was heartbreaking and infuriating."[[footcite:Dershowitz1998][::221-222]]
+"Two Jews had a plan to assassinate Hitler. . . . "I hope nothing's happened to him!"[[footcite:Dershowitz1998][::227]]
+
+ "Author Moshe Shamir went on the radio to accuse Rabin of 'collaborating with Nazis.'"[[footcite:Dershowitz1998][::230]]
+
+"The tragic history of the first half-centure following the publication of /The Jewish State/ - the emergence of Nazism and Communism . . . . The Holocaust, which even Herzl could not have foreseen, conclusively proved that there was no Jewish future in many parts of Europe.  The creation of the State of Israel, on the ashes of the Holocaust . . . fulfilled Herzl's prophecy.[[footcite:Dershowitz1998][::245]]
+"We do believe that America /is/ different from Poland, Germany, the former Soviet Union, Egypt, and even France."[[footcite:Dershowitz1998][::250]]
+
+Grandmother saw communities disappear, felt better because of the existence of Israel.
+
+Many Holocaust memorials in America, honor the dead by preventing another Holocaust. [[footcite:Beinart2012][::7]]
+Basic truth - "We are not history's permanent victims."[[footcite:Beinart2012][::8]]
+Jewish liberator at Aushwitz, "You're too late." (Story told at AIPAC) [[footcite:Beinart2012][::31-32]]
+F-15s over Aushwitz[[footcite:Beinart2012][::33]]
+1970s Holocaust replaces Liberalism as the key for Amer. J.[[footcite:Beinart2012][::38-39]]
+
+Buchewald v. Latrun  (erased / named war hero)[[footcite:Wisse1992][::7]]
+
+w/o the destruction of European Jewry who knows . . . liberal support . . . W. recognition [[footcite:Wisse1992][::15]]
+
+The Holocaust is never far away.
+96% of J. @ Saloniki killed
+Holocaust-to-Israel paradigm
+Holocaust may be inexplicable (but J. now lead normal lives in IL)[[footcite:Mallet2004][::74]]
+
+Losses and persecutions in American holocaust culture v. celebrations and victories in IL.[[footcite:Mallet2004][::75]]
+
+These narratives (National Z. / European Secular Z. / Orthodox Religious Z. / Socialist Z.) are magnified by the backdrop of the Holocaust.[[footcite:Mallet2004][::85]]
+
+friend Susannah's family (who she previously remembered for joining country club) was active in rescuing J. from Germany[[footcite:Mallet2004][::100]]
+
+Russian immigrants to US in the 1990s had survived Nazi invasion of Kiev[[footcite:Mallet2004][::101]]
+
+ [1492 | Sephardic J. hist bracketed by | Holocaust][[footcite:Mallet2004][::104]]
+
+I got out of there for this? -> do well in school[[footcite:Mallet2004][::105]]
+
+dealing w/ holocaust through art (2nd gen)[[footcite:Mallet2004][::106]]
+
+
+
+#+LATEX:\theendnotes 
